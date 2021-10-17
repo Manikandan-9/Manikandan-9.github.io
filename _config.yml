@@ -1,5 +1,5 @@
-layout: stacked
-style: dark
+layout: sidebar
+style: light
 
 plugins:
   - jekyll-octicons
@@ -24,23 +24,15 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: false
+    forks: true
     projects:
     # - repo-name
 
-<<<<<<< HEAD
-social_media:
+# social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  hackerrank: manikandanm09041
-=======
- social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-   hackerrank: manikandanm09041
->>>>>>> d01e8f2c41aa7011f91912ed5d241ce68395cacc
+  # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
   # linkedin: your_username
@@ -55,9 +47,9 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: python
-    web_url: https://github.com/topics/python
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+  - name: CSS
+    web_url: https://github.com/topics/css
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
 
