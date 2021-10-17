@@ -28,11 +28,19 @@ projects:
     projects:
     # - repo-name
 
+<<<<<<< HEAD
 social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   hackerrank: manikandanm09041
+=======
+ social_media:
+  # behance: your_username
+  # dribbble: your_username
+  # facebook: your_username
+   hackerrank: manikandanm09041
+>>>>>>> d01e8f2c41aa7011f91912ed5d241ce68395cacc
   # instagram: your_username
   # keybase: your_username
   # linkedin: your_username
